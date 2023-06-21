@@ -1,0 +1,10 @@
+name: ColorText
+version: '${project.version}'
+main: ru.dimianas.colortext.ColorText
+api-version: 1.17
+authors: [Dimianas]
+website: https://2k2f.site/
+commands:
+  colort:
+    command: /colort reload
+    permission: colortext.reload
